@@ -1,6 +1,6 @@
 # ai-job-matching-engine
 
-[![CI Pipeline](https://github.com/developertogo/ai-job-matching-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/developertogo/ai-job-matching-engine/actions/workflows/ci.yml)
+[![CI Pipeline](https://github.com/developertogo/ai-job-matching-engine/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/developertogo/ai-job-matching-engine/actions/workflows/ci.yml)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.4-blue.svg)](https://www.typescriptlang.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-14_App_Router-black.svg)](https://nextjs.org/)
 [![Fastify](https://img.shields.io/badge/Fastify-4.28-black.svg)](https://fastify.dev/)
