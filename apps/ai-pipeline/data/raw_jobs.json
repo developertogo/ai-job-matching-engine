@@ -1,0 +1,26 @@
+[
+  {
+    "id": "raw-jd-1",
+    "raw_title": "Founding Full Stack Engineer",
+    "company": "Matcha AI",
+    "raw_text": "Matcha AI is looking for a Founding Full Stack Engineer to lead front-of-house engineering and end-to-end product delivery. You will architect our Next.js frontend, build high-performance Fastify backend microservices, integrate Turso/libSQL vector search, and instrument OpenTelemetry traces.\n\nRequirements:\n- 4+ years building production TypeScript web applications.\n- Strong proficiency with Next.js, React, Tailwind CSS, Fastify, and Node.js.\n- Experience with embedded databases (SQLite, libSQL, Turso) and Drizzle ORM.\n- Familiarity with vector embeddings, LLM inference APIs, and distributed tracing.\n\nCompensation: $160,000 - $220,000 base salary + 1.0% - 2.5% equity. Remote friendly (US / Global)."
+  },
+  {
+    "id": "raw-jd-2",
+    "raw_title": "Founding AI Engineer (ML/Data)",
+    "company": "Matcha AI",
+    "raw_text": "We are hiring our Founding AI Engineer to design and scale the machine learning and data pipelines powering our job matching engine. You will build local LLM extraction pipelines with Ollama and Instructor, generate 768-dim vector embeddings with nomic-embed-text, implement recursive CTE graph matchers, and establish evaluation benchmarks.\n\nRequirements:\n- 4+ years building production ML/AI and data pipelines.\n- Strong Python and SQL fundamentals with production pipeline experience.\n- Deep expertise with PyTorch, Pydantic v2, Instructor, and local LLM runtime acceleration (Metal/Apple Silicon).\n- Experience with vector search, semantic embeddings, and knowledge graphs.\n- Track record of building automated evaluation suites for LLM extraction accuracy.\n\nCompensation: $175,000 - $240,000 base salary + 1.2% - 3.0% equity. Remote (US / Global)."
+  },
+  {
+    "id": "raw-jd-3",
+    "raw_title": "Founding Backend Software Engineer",
+    "company": "Matcha AI",
+    "raw_text": "Join Matcha AI as our Founding Backend Software Engineer to own the core API architecture, ingestion pipeline coordination, and distributed tracing. You will design low-latency Fastify REST endpoints, maintain Drizzle ORM schemas and Turso DB migrations, optimize SQLite recursive CTEs for skill ontology lookups, and ensure 100% observability with OpenTelemetry.\n\nRequirements:\n- 5+ years building backend systems in TypeScript/Node.js or Go/Python.\n- Production experience with Fastify or Express, schema validation, and SQL optimization.\n- Strong knowledge of SQLite/libSQL, database indexing, and graph traversal queries.\n- Hands-on experience with OpenTelemetry auto-instrumentation and OTLP exporters.\n\nCompensation: $165,000 - $230,000 base salary + 1.0% - 2.5% equity. Hybrid (San Francisco, CA)."
+  },
+  {
+    "id": "raw-jd-4",
+    "raw_title": "Staff Platform Infrastructure Engineer",
+    "company": "Matcha AI",
+    "raw_text": "Matcha AI is seeking a Staff Platform Infrastructure Engineer to manage our distributed edge architecture and OpenTelemetry observability stack.\n\nResponsibilities:\n- Deploy and manage Turso DB edge replicas and libSQL sync clusters.\n- Implement CI/CD pipelines, Docker containerization, and automated canary deployments.\n- Optimize local Ollama inference performance and system health telemetry.\n\nRequirements:\n- 6+ years infrastructure and cloud systems experience.\n- Deep familiarity with Docker, Kubernetes, OpenTelemetry, SQLite, and Linux systems.\n- Salary: $180,000 - $250,000. Remote."
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "name": "ai-job-matching-engine-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "packageManager": "pnpm@9.15.1",
+  "scripts": {
+    "dev": "pnpm --parallel --filter @job-engine/* dev",
+    "dev:api": "pnpm --filter @job-engine/api dev",
+    "dev:web": "pnpm --filter @job-engine/web dev",
+    "build": "pnpm --recursive --filter @job-engine/* build",
+    "db:generate": "pnpm --filter @job-engine/db db:generate",
+    "db:migrate": "pnpm --filter @job-engine/db db:migrate",
+    "db:seed": "pnpm --filter @job-engine/db db:seed",
+    "test": "pnpm --filter @job-engine/db test && pnpm --filter @job-engine/api test && pnpm --filter @job-engine/web test && pnpm test:pipeline",
+    "test:db": "pnpm --filter @job-engine/db test",
+    "test:api": "pnpm --filter @job-engine/api test",
+    "test:web": "pnpm --filter @job-engine/web test",
+    "test:pipeline": "apps/ai-pipeline/.venv/bin/pytest apps/ai-pipeline/tests"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
