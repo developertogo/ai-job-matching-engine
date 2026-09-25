@@ -8,6 +8,7 @@
 [![Turso](https://img.shields.io/badge/Turso_DB-libSQL-00E599.svg)](https://turso.tech/)
 [![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-Tracing-F5A800.svg)](https://opentelemetry.io/)
 [![Ollama](https://img.shields.io/badge/Ollama-Local_AI-white.svg)](https://ollama.ai/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 An end-to-end, full-stack AI job matching platform built with local Apple Silicon Metal acceleration (`llama3.2:3b` and `nomic-embed-text`), Turso DB (libSQL vector storage and SQLite recursive CTE knowledge graph traversal), Drizzle ORM, a Fastify backend with OpenTelemetry (OTel) auto-instrumentation, and a Next.js 14 frontend powered by Jotai and TanStack Query v5.
 

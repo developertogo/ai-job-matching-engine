@@ -2,6 +2,7 @@
   "name": "ai-job-matching-engine-monorepo",
   "version": "1.0.0",
   "private": true,
+  "license": "MIT",
   "packageManager": "pnpm@9.15.1",
   "scripts": {
     "dev": "pnpm --parallel --filter @job-engine/* dev",
